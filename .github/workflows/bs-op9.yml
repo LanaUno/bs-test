@@ -1,4 +1,4 @@
-name: Browserstack Google Pixel 3 CI
+name: Browserstack OnePlus 9 CI
 on: [push, pull_request] 
 jobs:
   build:
